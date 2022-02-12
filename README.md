@@ -10,4 +10,4 @@ This project is a starting point for a Flutter application.
 
 This project is a starting point for a Flutter application.
 
-![image](https://user-images.githubusercontent.com/58179608/153728646-78d6ac22-4d0b-4bac-8fd0-77e3ebfbf440.png)
+![screenshot](https://user-images.githubusercontent.com/58179608/153728916-f81734d6-086f-4d52-ad23-851e2e1b5053.gif)
